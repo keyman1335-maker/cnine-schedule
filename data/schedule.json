@@ -1,8 +1,16 @@
 {
-  "adminPasswordHash": "",
+  "adminPasswordHash": "7aca68af3a67d572b7352b2cd349d9828373cb289fb32f25108dca8850ab33cb",
   "data": {
     "weekly": {
-      "chulgu": ["방송", "방송", "방송", "방송", "방송", "방송", "방송"]
+      "chulgu": [
+        "태스트",
+        "방송",
+        "방송",
+        "방송",
+        "방송",
+        "방송",
+        "방송"
+      ]
     },
     "today": {
       "schedule": "등록된 일정 없음",
