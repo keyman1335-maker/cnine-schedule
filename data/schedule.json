@@ -1,24 +1,13 @@
 {
   "adminPasswordHash": "",
   "data": {
-    "settings": {
-      "logoUrl": "https://keyman1335-maker.github.io/poong-rank/assets/crew_logos/cninelogo.png?v=9999"
-    },
-    "members": [
-      {"id":"chulgu","name":"철구","tag":"수장"},
-      {"id":"angji","name":"앵지","tag":"학생회장"},
-      {"id":"bbanghun","name":"빵훈이","tag":"선도부장"},
-      {"id":"star","name":"스타부","tag":"부서"},
-      {"id":"excel","name":"엑셀부","tag":"부서"}
-    ],
     "weekly": {
-      "chulgu":["","","","","","",""],
-      "angji":["","","","","","",""],
-      "bbanghun":["","","","","","",""],
-      "star":["","","","","","",""],
-      "excel":["","","","","","",""]
+      "chulgu": ["방송", "방송", "방송", "방송", "방송", "방송", "방송"]
     },
-    "today": {"schedule":"", "memo":""},
+    "today": {
+      "schedule": "등록된 일정 없음",
+      "notice": "등록된 공지사항 없음"
+    },
     "monthly": {}
   }
 }
